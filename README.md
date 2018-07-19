@@ -6,3 +6,10 @@ My micro-service:
 https://github.com/Ghana-SDC/CadenQuestionsAnswers
 
 The micro-service I chose was designed by another student during our Front End Capstone project phase where we each designed a functional front end component which would render data correctly.
+
+### Technologies Used:
+
+- React
+- Express
+- Node
+- Bluebird
