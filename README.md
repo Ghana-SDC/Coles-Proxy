@@ -18,6 +18,6 @@ The microservice I chose was designed by another student during our Front End Ca
 
 - Dockerize this project
 - Push to DockerHub
-- Pull image from DockerHub
+- Pull image from DockerHub onto instance
 - Run "docker run -d image_name:tag_name"
 - This proxy server should be hosted on your instance at port 3000
