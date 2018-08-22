@@ -2,8 +2,7 @@
 
 My System Design Capstone project for HRLA22. This is the proxy server which is meant to hit a NGINX load balancer which will redircect to an instance of my microservice. This microservice uses a PSQL Database which has been optimized for heavy traffic.
 
-My microservice:
-https://github.com/Ghana-SDC/CadenQuestionsAnswers
+My microservice: https://github.com/cmichaelsd/Question-Answers-Component
 
 The microservice I chose was designed by another student during our Front End Capstone project phase where we each designed a functional front end component which would render sample data correctly.
 
